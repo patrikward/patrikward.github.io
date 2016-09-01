@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://patrikward.github.io
+title: Blog
+email: hello@patrikward.com
+author: Patrik Ward
+description: Assorted thoughts about design, anthropology, and books.
+paginate: 15
+google_analytics: 
